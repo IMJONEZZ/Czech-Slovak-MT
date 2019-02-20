@@ -1,0 +1,8 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+srcdir=@datarootdir@/apertium/apertium-slk
+
+Name: apertium-slk
+Description: Finite-state morphological transducer and constraint grammar for Slovak 
+Version: @VERSION@
+
